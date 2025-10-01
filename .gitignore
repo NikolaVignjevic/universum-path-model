@@ -1,4 +1,6 @@
-# Project extras
+###
+## Project extras
+###
 data/*
 !data/.gitkeep
 figures/*

@@ -1,3 +1,15 @@
+# Project extras
+data/*
+!data/.gitkeep
+figures/*
+!figures/.gitkeep
+*.png
+*.npz
+*.npy
+
+###
+## Python .gitignore
+###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
